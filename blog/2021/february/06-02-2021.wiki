@@ -1,0 +1,5 @@
+todays blog updates
+Not really a blog but if I actually planned to write one I'd brag about setting up CI/CD here always wanted to do something like this but never had to do it myself.
+Since now all I have to do is just write one I guess I have to do it huh?
+
+[[/itzjustalan|go home]]

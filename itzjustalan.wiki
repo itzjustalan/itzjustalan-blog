@@ -1,0 +1,19 @@
+===itzjustalan===
+rss: https://itzjustalan-blog.web.app/rss.xml
+
+Welcome random people on the internet!<br>
+I post stuff about technology, terminal and other things here. This website is generated using vimwiki and is best consumed on a terminal browser (eg: lynx).<br>
+
+I see tech as a tool and needless to say I'm always looking forward for better and effective ways to use them. I hate boring repetetive tasks and try to automate wherever I can. I'll try to post about all these as much as I can and meanwhile you can checkout my rss feed. Also feel free to mail me about your cool automation ideas and vim tips lol.
+mailto:devtesting1212@gmail.com
+
+
+=recents=
+1. [[link to intro blog !todo|Intro]]
+2. [[articles/list|some article]]
+3. [[latest blog|blog update]]
+
+
+<br>[[articles/list|articles]]
+<br>[[blog/2021/february/06-02-2021|blog]]
+<br>[[about/about|about]]
